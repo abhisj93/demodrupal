@@ -815,10 +815,10 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 # }
 $databases['default']['default'] = array (
   'database' => 'demo',
-  'username' => 'root',
-  'password' => '',
+  'username' => 'kwcwecaglw',
+  'password' => 'demo123!',
   'prefix' => '',
-  'host' => 'localhost',
+  'host' => 'beindrupal-server.mysql.database.azure.com',
   'port' => '3306',
   'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
   'driver' => 'mysql',
